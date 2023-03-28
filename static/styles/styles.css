@@ -1,0 +1,60 @@
+#wrep {
+  width: 800px;
+
+  height: 900px;
+  text-align: center;
+  margin-left: 300px;
+  background-image: url(../images/img1.jpg.jpg);
+  background-repeat: no-repeat;
+  background-position: 160px 160px;
+  background-size: 480px 220px;
+}
+#za {
+  height: 77px;
+  background-color: rgb(69, 226, 21);
+}
+#al {
+  background-color: rgb(242, 251, 192);
+  width: 150px;
+  float: right;
+  height: 300px;
+}
+#ar {
+  background-color: rgba(242, 251, 192);
+  width: 150px;
+  float: left;
+  height: 300px;
+}
+#con {
+  height: 60px;
+  background-color: coral;
+  width: 480px;
+  margin: 2px 0px 0px 160px;
+}
+#fut {
+  width: 480px;
+  height: 90px;
+  background-color: darkcyan;
+  margin: 10px 10px 10px 160px;
+}
+h1 {
+  text-align: center;
+  padding: 18px;
+  text-decoration: underline;
+}
+.clear {
+  clear: both;
+}
+#img {
+  background-image: url(../images/YuanEmperorAlbumGenghisPortrait.jpg);
+  background-repeat: no-repeat;
+  background-position: 0px 100px;
+  background-attachment: fixed;
+}
+body {
+  height: 1000px;
+  background-image: url(../images/bg-dark-0002.gif);
+}
+a {
+  color: black;
+}
